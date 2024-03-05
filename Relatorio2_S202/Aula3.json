@@ -1,0 +1,25 @@
+{
+    "Aula3": {
+        "nome": "C214",
+        "assunto": "Engenharia de Software",
+        "professor": "Christopher",
+        "alunos": [
+            {
+                "nome": "Pedro",
+                "idade": 22
+            },
+            {
+                "nome": "Guilherme",
+                "idade": 22
+            },
+            {
+                "nome": "João Lucas",
+                "idade": 25
+            },
+            {
+                "nome": "Henrique",
+                "idade": 26
+            }
+        ]
+    }
+}

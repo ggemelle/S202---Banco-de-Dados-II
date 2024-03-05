@@ -1,0 +1,25 @@
+{
+    "Aula1": {
+        "nome": "S202",
+        "assunto": "Banco de Dados II",
+        "professor": "Jonas",
+        "alunos": [
+            {
+                "nome": "Gabriel",
+                "idade": 21
+            },
+            {
+                "nome": "Francisco",
+                "idade": 21
+            },
+            {
+                "nome": "Lucas",
+                "idade": 28
+            },
+            {
+                "nome": "Junior",
+                "idade": 19
+            }
+        ]
+    }
+}
